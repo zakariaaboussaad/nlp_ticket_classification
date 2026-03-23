@@ -8,3 +8,11 @@ tqdm
 flask
 onnxruntime
 datasets
+beautifulsoup4
+wandb
+tensorboard
+fastapi
+uvicorn
+pytest
+pytest-cov
+seaborn
