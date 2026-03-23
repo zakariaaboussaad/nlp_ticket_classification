@@ -1,0 +1,226 @@
+text,label
+"Login not working for user account",0
+"Server down for maintenance",1
+"Database connection timeout error",1
+"Cannot access shared folder",2
+"Printer not responding to print jobs",2
+"Email client crashes on startup",3
+"VPN connection keeps disconnecting",0
+"Application installation failed",3
+"Blue screen error on Windows",4
+"Slow network performance",1
+"File upload not working",2
+"Password reset not received",0
+"Software license expired",3
+"Computer freezes randomly",4
+"Cannot open Excel files",2
+"Wi-Fi not connecting",0
+"Outlook synchronization error",3
+"Hard drive full warning",1
+"Monitor display resolution issue",4
+"Audio not working on laptop",2
+"Remote desktop connection failed",0
+"Antivirus blocking legitimate application",3
+"Memory leak in application",4
+"Cannot print PDF documents",2
+"Active Directory sync issues",1
+"Web browser crashes frequently",3
+"File server access denied",0
+"Application update failed",3
+"System backup failed",1
+"Touchscreen not responding",4
+"Cannot send emails",3
+"Database query running slow",1
+"USB device not recognized",4
+"Application hangs on load",3
+"Network cable unplugged",0
+"Cannot access network drives",2
+"Software compatibility issue",3
+"Computer overheating",4
+"File corruption detected",1
+"Cannot login to domain",0
+"Application memory usage high",4
+"Printer queue stuck",2
+"Email attachments not downloading",3
+"Server response time slow",1
+"Cannot save files to network",2
+"Application auto-update disabled",3
+"System restore failed",4
+"Cannot connect to internet",0
+"Database backup corrupted",1
+"File permissions error",2
+"Software installation blocked",3
+"Computer running very slow",4
+"Cannot access shared resources",0
+"Application crashes on save",3
+"Network latency issues",1
+"Cannot map network drive",2
+"Email configuration problems",3
+"System boot failure",4
+"Cannot open network files",2
+"Application not responding",3
+"Server CPU usage high",1
+"Cannot delete files",2
+"Software update required",3
+"Computer fan noise loud",4
+"Cannot access company portal",0
+"Database replication failed",1
+"File transfer interrupted",2
+"Email signature not working",3
+"System performance degraded",4
+"Cannot install updates",3
+"Network authentication failed",0
+"Database deadlock detected",1
+"File sharing not working",2
+"Application memory leak",4
+"Cannot connect to database",1
+"Software deployment failed",3
+"Computer randomly restarts",4
+"Cannot access cloud storage",2
+"Email filtering not working",3
+"Server disk space full",1
+"File encryption failed",2
+"Application patch failed",3
+"System resources exhausted",4
+"Cannot sync files",2
+"Network bandwidth limited",1
+"Software license invalid",3
+"Computer hardware failure",4
+"Cannot access remote files",0
+"Database connection pool exhausted",1
+"File backup incomplete",2
+"Email server down",3
+"System monitoring alerts",1
+"Cannot deploy application",3
+"Network configuration error",0
+"Database migration failed",1
+"File version conflict",2
+"Software dependency missing",3
+"System instability detected",4
+"Cannot access API endpoints",0
+"Database performance degradation",1
+"File synchronization error",2
+"Email delivery failed",3
+"Server memory leak",4
+"Cannot compile code",3
+"Network packet loss",1
+"File access denied",2
+"Software build failed",3
+"System resource monitoring",1
+"Cannot push to repository",0
+"Database query optimization needed",1
+"File compression failed",2
+"Email automation not working",3
+"Server maintenance required",1
+"Cannot run tests",3
+"Network security breach",0
+"Database indexing issues",1
+"File migration incomplete",2
+"Email template errors",3
+"System health check failed",1
+"Cannot deploy to production",3
+"Network firewall blocking",0
+"Database backup restoration failed",1
+"File sharing permissions",2
+"Email campaign not sending",3
+"Server load balancer issues",1
+"Cannot access development environment",0
+"Database schema migration error",1
+"File system corruption",2
+"Email bounce rate high",3
+"Server scaling needed",1
+"Cannot access staging environment",0
+"Database query timeout",1
+"File transfer protocol error",2
+"Email authentication failed",3
+"Server monitoring alerts",1
+"Cannot access production logs",0
+"Database connection refused",1
+"File archiving failed",2
+"Email spam filter issues",3
+"Server capacity planning",1
+"Cannot access analytics dashboard",0
+"Database replication lag",1
+"File deduplication error",2
+"Email marketing automation",3
+"Server resource allocation",1
+"Cannot access admin panel",0
+"Database sharding issues",1
+"File backup verification failed",2
+"Email template rendering",3
+"Server performance tuning",1
+"Cannot access user management",0
+"Database clustering issues",1
+"File synchronization conflicts",2
+"Email delivery optimization",3
+"Server auto-scaling failed",1
+"Cannot access billing system",0
+"Database partitioning error",1
+"File version control issues",2
+"Email campaign analytics",3
+"Server monitoring setup",1
+"Cannot access customer support",0
+"Database optimization needed",1
+"File backup scheduling",2
+"Email automation workflows",3
+"Server maintenance window",1
+"Cannot access project management",0
+"Database disaster recovery",1
+"File retention policies",2
+"Email compliance checks",3
+"Server security audit",1
+"Cannot access documentation",0
+"Database performance monitoring",1
+"File access logging",2
+"Email archiving policies",3
+"Server backup verification",1
+"Cannot access training materials",0
+"Database capacity planning",1
+"File disaster recovery",2
+"Email security protocols",3
+"Server redundancy setup",1
+"Cannot access knowledge base",0
+"Database security audit",1
+"File encryption standards",2
+"Email deliverability optimization",3
+"Server high availability",1
+"Cannot access reporting tools",0
+"Database backup automation",1
+"File lifecycle management",2
+"Email marketing compliance",3
+"Server load testing",1
+"Cannot access API documentation",0
+"Database query analysis",1
+"File sharing governance",2
+"Email template management",3
+"Server configuration management",1
+"Cannot access system metrics",0
+"Database index optimization",1
+"File access controls",2
+"Email performance monitoring",3
+"Server infrastructure planning",1
+"Cannot access audit logs",0
+"Database connection pooling",1
+"File backup automation",2
+"Email security scanning",3
+"Server capacity optimization",1
+"Cannot access compliance reports",0
+"Database monitoring alerts",1
+"File storage optimization",2
+"Email deliverability monitoring",3
+"Server resource monitoring",1
+"Cannot access user analytics",0
+"Database backup verification",1
+"File transfer monitoring",2
+"Email campaign performance",3
+"Server health monitoring",1
+"Cannot access system health",0
+"Database performance tuning",1
+"File synchronization monitoring",2
+"Email automation monitoring",3
+"Server availability monitoring",1
+"Cannot access security reports",0
+"Database security monitoring",1
+"File access monitoring",2
+"Email compliance monitoring",3
+"Server security monitoring",1

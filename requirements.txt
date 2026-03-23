@@ -1,0 +1,10 @@
+torch>=2.0
+transformers>=4.35
+scikit-learn
+pandas
+numpy
+matplotlib
+tqdm
+flask
+onnxruntime
+datasets
